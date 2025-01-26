@@ -19,5 +19,5 @@ Eu sou um desenvolvedor **full-stack** apaixonado por tecnologia e pela criaçã
 ---
 
 ## 📈 Estatísticas
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=EduardoMaltauro&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMaltauro&layout=compact&theme=radical)
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=EduardoMaltauro&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMaltauro&layout=compact&theme=dark)
