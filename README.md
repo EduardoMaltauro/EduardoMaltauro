@@ -24,8 +24,8 @@ Eu sou um desenvolvedor **full-stack** apaixonado por tecnologia e pela criaçã
 
 ---
 
-## 🌐 Vamos Conectar?
-- [LinkedIn](https://www.linkedin.com/in/EduardoMaltauro/)
+<!-- ## 🌐 Vamos Conectar? -->
+<!-- - [LinkedIn](https://www.linkedin.com/in/EduardoMaltauro/) -->
 <!-- - [Portfólio](https://seu-site.com) -->
 
 💡 _"A persistência é o caminho do êxito."_ — Charles Chaplin
