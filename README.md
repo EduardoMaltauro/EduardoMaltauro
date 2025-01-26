@@ -15,7 +15,6 @@ Eu sou um desenvolvedor **full-stack** apaixonado por tecnologia e pela criaçã
 ## 📌 Sobre Mim
 - 🎮 Gosto de aproveitar meu tempo livre jogando GTA V Online.
 - 🛋️ Valorizo um bom descanso nos finais de semana.
-- 🌱 Atualmente aprendendo sobre React Native.
 
 ---
 
