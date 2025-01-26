@@ -22,9 +22,3 @@ Eu sou um desenvolvedor **full-stack** apaixonado por tecnologia e pela criaçã
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=EduardoMaltauro&show_icons=true&theme=radical)
 
 ---
-
-<!-- ## 🌐 Vamos Conectar? -->
-<!-- - [LinkedIn](https://www.linkedin.com/in/EduardoMaltauro/) -->
-<!-- - [Portfólio](https://seu-site.com) -->
-
-💡 _"A persistência é o caminho do êxito."_ — Charles Chaplin
